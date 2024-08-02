@@ -2,7 +2,7 @@
 
 <h1>MS Office 365 - AdminCenter /Outlook</h1>
 
-<p> I used Microsoft program to try Office 365 Admin Center and practiced setting automation for these users for my IT homelab </p>
+<p> I used Microsoft Developer program, Office 365 Admin Center to practiced setting automation in Outlook for these users for my IT homelab </p>
 
 <h2>List of usernames in Microsoft Developer program</h2>
 <img src= "https://i.imgur.com/fNd2X6N.png" height="65%" width="65%" alt="blank"/>
