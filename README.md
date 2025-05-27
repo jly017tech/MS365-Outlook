@@ -11,3 +11,13 @@ I learned to created a custom rule, ran some simple commands, and added to the u
 
 <h2>Exchange Admin Center</h2>
 <img src="https://i.imgur.com/2olVvRH.png" height="65%" width="80%" alt="blank"/>
+
+
+<h1>Simple commands</h1>
+
+![image](https://github.com/user-attachments/assets/032d2541-4698-4607-87e1-a3b9e6447f94)
+
+
+<h2>SOutlook /safe</h2>
+<p>When I run this command, it limits other features such as COM Add-ins and extension, custom toolbards and ribbon changes, reading pane
+and bypasses certain settings.</p>
